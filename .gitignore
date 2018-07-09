@@ -1,0 +1,7 @@
+# 任意安装库
+node_modules/
+*/node_modules/
+
+# 数据库文件
+*.db
+
